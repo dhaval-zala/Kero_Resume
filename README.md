@@ -1,2 +1,2 @@
-# Kero_Resume
+# Kero_Resume_Model
 Internship @ Kero

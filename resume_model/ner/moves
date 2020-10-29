@@ -1,0 +1,416 @@
+Å´transitions⁄¡[
+  {
+    "clas": 0,
+    "move": 1,
+    "label": "Resume_Title",
+    "name": "B-Resume_Title"
+  },
+  {
+    "clas": 1,
+    "move": 2,
+    "label": "Resume_Title",
+    "name": "I-Resume_Title"
+  },
+  {
+    "clas": 2,
+    "move": 3,
+    "label": "Resume_Title",
+    "name": "L-Resume_Title"
+  },
+  {
+    "clas": 3,
+    "move": 4,
+    "label": "Resume_Title",
+    "name": "U-Resume_Title"
+  },
+  {
+    "clas": 4,
+    "move": 1,
+    "label": "Skills",
+    "name": "B-Skills"
+  },
+  {
+    "clas": 5,
+    "move": 2,
+    "label": "Skills",
+    "name": "I-Skills"
+  },
+  {
+    "clas": 6,
+    "move": 3,
+    "label": "Skills",
+    "name": "L-Skills"
+  },
+  {
+    "clas": 7,
+    "move": 4,
+    "label": "Skills",
+    "name": "U-Skills"
+  },
+  {
+    "clas": 8,
+    "move": 1,
+    "label": "Degree",
+    "name": "B-Degree"
+  },
+  {
+    "clas": 9,
+    "move": 2,
+    "label": "Degree",
+    "name": "I-Degree"
+  },
+  {
+    "clas": 10,
+    "move": 3,
+    "label": "Degree",
+    "name": "L-Degree"
+  },
+  {
+    "clas": 11,
+    "move": 4,
+    "label": "Degree",
+    "name": "U-Degree"
+  },
+  {
+    "clas": 12,
+    "move": 1,
+    "label": "Program",
+    "name": "B-Program"
+  },
+  {
+    "clas": 13,
+    "move": 2,
+    "label": "Program",
+    "name": "I-Program"
+  },
+  {
+    "clas": 14,
+    "move": 3,
+    "label": "Program",
+    "name": "L-Program"
+  },
+  {
+    "clas": 15,
+    "move": 4,
+    "label": "Program",
+    "name": "U-Program"
+  },
+  {
+    "clas": 16,
+    "move": 1,
+    "label": "College Name",
+    "name": "B-College Name"
+  },
+  {
+    "clas": 17,
+    "move": 2,
+    "label": "College Name",
+    "name": "I-College Name"
+  },
+  {
+    "clas": 18,
+    "move": 3,
+    "label": "College Name",
+    "name": "L-College Name"
+  },
+  {
+    "clas": 19,
+    "move": 4,
+    "label": "College Name",
+    "name": "U-College Name"
+  },
+  {
+    "clas": 20,
+    "move": 1,
+    "label": "College Location",
+    "name": "B-College Location"
+  },
+  {
+    "clas": 21,
+    "move": 2,
+    "label": "College Location",
+    "name": "I-College Location"
+  },
+  {
+    "clas": 22,
+    "move": 3,
+    "label": "College Location",
+    "name": "L-College Location"
+  },
+  {
+    "clas": 23,
+    "move": 4,
+    "label": "College Location",
+    "name": "U-College Location"
+  },
+  {
+    "clas": 24,
+    "move": 1,
+    "label": "Designation",
+    "name": "B-Designation"
+  },
+  {
+    "clas": 25,
+    "move": 2,
+    "label": "Designation",
+    "name": "I-Designation"
+  },
+  {
+    "clas": 26,
+    "move": 3,
+    "label": "Designation",
+    "name": "L-Designation"
+  },
+  {
+    "clas": 27,
+    "move": 4,
+    "label": "Designation",
+    "name": "U-Designation"
+  },
+  {
+    "clas": 28,
+    "move": 1,
+    "label": "Companies worked at",
+    "name": "B-Companies worked at"
+  },
+  {
+    "clas": 29,
+    "move": 2,
+    "label": "Companies worked at",
+    "name": "I-Companies worked at"
+  },
+  {
+    "clas": 30,
+    "move": 3,
+    "label": "Companies worked at",
+    "name": "L-Companies worked at"
+  },
+  {
+    "clas": 31,
+    "move": 4,
+    "label": "Companies worked at",
+    "name": "U-Companies worked at"
+  },
+  {
+    "clas": 32,
+    "move": 1,
+    "label": "Location",
+    "name": "B-Location"
+  },
+  {
+    "clas": 33,
+    "move": 2,
+    "label": "Location",
+    "name": "I-Location"
+  },
+  {
+    "clas": 34,
+    "move": 3,
+    "label": "Location",
+    "name": "L-Location"
+  },
+  {
+    "clas": 35,
+    "move": 4,
+    "label": "Location",
+    "name": "U-Location"
+  },
+  {
+    "clas": 36,
+    "move": 1,
+    "label": "Duration",
+    "name": "B-Duration"
+  },
+  {
+    "clas": 37,
+    "move": 2,
+    "label": "Duration",
+    "name": "I-Duration"
+  },
+  {
+    "clas": 38,
+    "move": 3,
+    "label": "Duration",
+    "name": "L-Duration"
+  },
+  {
+    "clas": 39,
+    "move": 4,
+    "label": "Duration",
+    "name": "U-Duration"
+  },
+  {
+    "clas": 40,
+    "move": 1,
+    "label": "Graduation Year",
+    "name": "B-Graduation Year"
+  },
+  {
+    "clas": 41,
+    "move": 2,
+    "label": "Graduation Year",
+    "name": "I-Graduation Year"
+  },
+  {
+    "clas": 42,
+    "move": 3,
+    "label": "Graduation Year",
+    "name": "L-Graduation Year"
+  },
+  {
+    "clas": 43,
+    "move": 4,
+    "label": "Graduation Year",
+    "name": "U-Graduation Year"
+  },
+  {
+    "clas": 44,
+    "move": 1,
+    "label": "Language",
+    "name": "B-Language"
+  },
+  {
+    "clas": 45,
+    "move": 2,
+    "label": "Language",
+    "name": "I-Language"
+  },
+  {
+    "clas": 46,
+    "move": 3,
+    "label": "Language",
+    "name": "L-Language"
+  },
+  {
+    "clas": 47,
+    "move": 4,
+    "label": "Language",
+    "name": "U-Language"
+  },
+  {
+    "clas": 48,
+    "move": 1,
+    "label": "Technical skills",
+    "name": "B-Technical skills"
+  },
+  {
+    "clas": 49,
+    "move": 2,
+    "label": "Technical skills",
+    "name": "I-Technical skills"
+  },
+  {
+    "clas": 50,
+    "move": 3,
+    "label": "Technical skills",
+    "name": "L-Technical skills"
+  },
+  {
+    "clas": 51,
+    "move": 4,
+    "label": "Technical skills",
+    "name": "U-Technical skills"
+  },
+  {
+    "clas": 52,
+    "move": 1,
+    "label": "Years of Experience",
+    "name": "B-Years of Experience"
+  },
+  {
+    "clas": 53,
+    "move": 2,
+    "label": "Years of Experience",
+    "name": "I-Years of Experience"
+  },
+  {
+    "clas": 54,
+    "move": 3,
+    "label": "Years of Experience",
+    "name": "L-Years of Experience"
+  },
+  {
+    "clas": 55,
+    "move": 4,
+    "label": "Years of Experience",
+    "name": "U-Years of Experience"
+  },
+  {
+    "clas": 56,
+    "move": 1,
+    "label": "Name",
+    "name": "B-Name"
+  },
+  {
+    "clas": 57,
+    "move": 2,
+    "label": "Name",
+    "name": "I-Name"
+  },
+  {
+    "clas": 58,
+    "move": 3,
+    "label": "Name",
+    "name": "L-Name"
+  },
+  {
+    "clas": 59,
+    "move": 4,
+    "label": "Name",
+    "name": "U-Name"
+  },
+  {
+    "clas": 60,
+    "move": 1,
+    "label": "Email Address",
+    "name": "B-Email Address"
+  },
+  {
+    "clas": 61,
+    "move": 2,
+    "label": "Email Address",
+    "name": "I-Email Address"
+  },
+  {
+    "clas": 62,
+    "move": 3,
+    "label": "Email Address",
+    "name": "L-Email Address"
+  },
+  {
+    "clas": 63,
+    "move": 4,
+    "label": "Email Address",
+    "name": "U-Email Address"
+  },
+  {
+    "clas": 64,
+    "move": 1,
+    "label": "UNKNOWN",
+    "name": "B-UNKNOWN"
+  },
+  {
+    "clas": 65,
+    "move": 2,
+    "label": "UNKNOWN",
+    "name": "I-UNKNOWN"
+  },
+  {
+    "clas": 66,
+    "move": 3,
+    "label": "UNKNOWN",
+    "name": "L-UNKNOWN"
+  },
+  {
+    "clas": 67,
+    "move": 4,
+    "label": "UNKNOWN",
+    "name": "U-UNKNOWN"
+  },
+  {
+    "clas": 68,
+    "move": 5,
+    "label": "",
+    "name": "O"
+  }
+]
